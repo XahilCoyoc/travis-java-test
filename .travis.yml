@@ -1,1 +1,5 @@
 language: java
+    notifications:
+  email:
+   -coyocitzel@gmail.com
+  on_success: always # default: change
